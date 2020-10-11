@@ -25,7 +25,7 @@ https://hacktoberfest.digitalocean.com/</p>
 ------
 ### How to Contribute to this repository
 
-* Fork the repository (Click the Fork button in the top right most of this page, click your Profile Image)
+* Fork the repository (Click the Fork button at the top right most of this page and then click on your Profile Image)
 * Clone the forked repository to your local machine.
 ```markdown
 git clone https://github.com/your-username/HacktoberFest2020.git
